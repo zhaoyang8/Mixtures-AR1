@@ -1,7 +1,5 @@
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](#) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Latest PDF:** [Mixtures_AR1_Xu2025.pdf](Mixtures_AR1_Xu2025.pdf)
-
 
 # Mixtures of AR(1) Components — Companion Code
 
